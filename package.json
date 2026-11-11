@@ -1,0 +1,21 @@
+{
+  "name": "pflegerechner",
+  "version": "1.0.0",
+  "description": "Leistungen der Pflegeversicherung je Pflegegrad 2026, Eigenanteil im Pflegeheim für alle 16 Bundesländer, Pflegelücke zu Hause und im Heim, Beihilfe, Schonvermögen und Elternunterhalt",
+  "scripts": {
+    "test": "node test/kern.test.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "homepage": "https://pflege.lopsticles.com/",
+  "keywords": [
+    "pflege",
+    "pflegeversicherung",
+    "pflegegrad",
+    "pflegeheim",
+    "eigenanteil",
+    "elternunterhalt"
+  ],
+  "license": "MIT"
+}
